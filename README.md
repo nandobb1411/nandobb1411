@@ -1,6 +1,6 @@
 <h1>Yo, what's up, im Fernando and this is my github profile!!</h1>
 
-<p>Interests👩‍💻: artificial intelligence, frameworks, web aplications, and whatever appears on youtube related to technology.<br />
+<p>Interests👩‍💻: artificial intelligence, frameworks, web aplications, user interfaces, machine learning, servers, and whatever appears on youtube that is related to technology.<br />
   <br />
   Currently studying📗: right now im studying front end programing languages such as: javascript, html, css and a bunch of front end frameworks such as: react, bootsrap and vue.
   <br />
