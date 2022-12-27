@@ -1,27 +1,28 @@
-<h1>Yo, what's up, im Fernando and this is my github profile!!</h1>
+# Welcome to my GitHub profile!
 
-<div align="center">
-  <a href="https://github.com/nandobb1411">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nandobb1411&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandobb1411&layout=compact&langs_count=7&theme=merko"/>
-</div>
+Hi there! My name is Fernando Bertoncello Bellelis and I am a data science student. I am passionate about using data to drive meaningful insights and solutions.
 
+On my profile, you'll find a variety of projects that showcase my skills and interests in data science. From analyzing and visualizing datasets to building machine learning models, I enjoy tackling a wide range of challenges in this field.
 
-<p>Interests👩‍💻: artificial intelligence, frameworks, web aplications, user interfaces, machine learning, servers, and whatever appears on youtube that is related to technology.<br />
-  <br />
-  Currently studying📗: right now im studying convolutional neural networks, SVMS, Postgresql and pytorch.
-  <br />
-  <br />
-  Collaborations🤝: im looking to learn new things from others. Getting to know projects from people all around the world is something that I enjoy deeply, I really like coding in groups due to the amount of work that can be done in a short period of time.
-  <br />
-  <br />
-  Contact me📮:
-  <br /> 
-  E-mail-fernando@bellelis.com.br.
-  <br />
-  instagram- @ferbellelis.
-  
-</p>
+I am always looking for new opportunities to learn and grow as a data scientist. If you have a project that you think would be a good fit for me, or if you just want to connect and chat about data science, don't hesitate to reach out.
 
+Thanks for stopping by!
+
+## Skills
+
+- Data analysis and visualization with tools such as `Python`, `R`, and `SQL`
+- Machine learning with libraries such as `scikit-learn`, `TensorFlow`, and `PyTorch`
+- Data wrangling and cleaning with `pandas` and `NumPy`
+- Collaborating on projects using version control with `git`
+
+## Projects
+
+- Genetic Algorithm: (https://github.com/nandobb1411/Genetic_Algorithm): A project that I did with some friends, uses genetics as inspiration to solve problems using code, this algorithm is a mere example.
+- MLP Churn: (https://github.com/nandobb1411/MLP_Churn): A prediction machine learning model that predicts churn(when a customer stop using a product or service)
+
+## Contact
+
+- Email: fernando@bellelis.com.br
+- LinkedIn: https://www.linkedin.com/in/fernando-bellelis-846231205/
 
 
