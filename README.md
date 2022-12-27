@@ -19,6 +19,7 @@ Thanks for stopping by!
 
 - Genetic Algorithm: (https://github.com/nandobb1411/Genetic_Algorithm): A project that I did with some friends, uses genetics as inspiration to solve problems using code, this algorithm is a mere example.
 - MLP Churn: (https://github.com/nandobb1411/MLP_Churn): A prediction machine learning model that predicts churn(when a customer stop using a product or service)
+- there are more projects on my profile, feel free to check them out!
 
 ## Contact
 
